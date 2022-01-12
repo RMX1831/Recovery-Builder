@@ -63,7 +63,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
           tag_name: v0.1
-          name: F2FS test
+          name: Recovery Test
           files: | 
-            work/out/target/product/CPH1861/recovery.img
+            work/out/target/product/RMX1831/recovery.img
             
