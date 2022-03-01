@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0
   DEVICE: RMX1831
-  DT_LINK: https://github.com/RMX1831/android_device_RMX1831_TWRP
+  DT_LINK: https://github.com/realme-mt6771-devs/android_recovery_realme_RMX1831
   DT_PATH: device/realme/RMX1831
   TARGET: recoveryimage
   TZ: Asia/Kolkata
